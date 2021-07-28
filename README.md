@@ -1,28 +1,25 @@
 # IMAGE transformations
 
 “IMAGE transformations” is a template which adds extra abilities to standard IMAGE control:  
-- Zoom in and out
+- Zoom in and out (with or without mouse wheel)
 - Rotate by any angle
 
-This is initial image:
+In the demo program you can try both zooming and rotation features. Below are the screenshots from the demo:
+
+Initial "Zoom" page:
 ![imgx-zoom100](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom100.jpg?raw=true)   
   
-This is the image zoomed out to 80%:
+The image zoomed out to 80%:
 ![imgx-zoom80](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom80.jpg?raw=true)   
   
-This is initial image:
+Initial "Rotate" page:
 ![imgx-rotate0](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate0.jpg?raw=true)   
   
-This is the image rotated to 27.2 degrees counterclock-wise:
+The image rotated to 27.2 degrees counterclock-wise:
 ![imgx-rotate27](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate27.jpg?raw=true)   
 
 
-## Usage
-- Register the template.
-- Add global extension to the application.
-- Add local extension to the procedure where an IMAGE control is used.
-
-## Features
+# Features
 - Image zooming.
 - Zoom by mouse wheel (like web browsers do).
 - Image rotation by any angle.
