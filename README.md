@@ -11,10 +11,10 @@ This is the image zoomed out to 80%:
 ![imgx-zoom80](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom80.jpg?raw=true)   
   
 This is initial image:
-![imgx-rotate0](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate0.jpg.jpg?raw=true)   
+![imgx-rotate0](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate0.jpg?raw=true)   
   
 This is the image rotated to 27.2 degrees counterclock-wise:
-![imgx-rotate27](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate27.jpg.jpg?raw=true)   
+![imgx-rotate27](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate27.jpg?raw=true)   
 
 
 ## Usage
