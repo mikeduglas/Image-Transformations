@@ -14,7 +14,7 @@ Initial "Zoom" page:
 The image zoomed out to 80%:
 ![imgx-zoom80](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom80.jpg?raw=true)   
   
-Initial "Rotate" page:
+Initial "Rotation" page:
 ![imgx-rotate0](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate0.jpg?raw=true)   
   
 The image rotated to 27.2 degrees counterclock-wise:
