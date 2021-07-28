@@ -4,6 +4,8 @@
 - Zoom in and out (with or without mouse wheel)
 - Rotate by any angle
 
+**It uses only regular Windows API functions, no extra libraries.**
+
 In the demo program you can try both zooming and rotation features. Below are the screenshots from the demo:
 
 Initial "Zoom" page:
