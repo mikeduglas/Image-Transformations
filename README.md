@@ -21,7 +21,7 @@ The image rotated to 27.2 degrees counterclock-wise:
 ![imgx-rotate27](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate27.jpg?raw=true)   
 
 
-# Features
+## Features
 - Image zooming.
 - Zoom by mouse wheel (like web browsers do).
 - Image rotation by any angle.
