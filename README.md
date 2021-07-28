@@ -6,7 +6,7 @@
 
 **It uses only regular Windows API functions, no extra libraries.**
 
-In the demo program you can try both zooming and rotation features. Below are the screenshots from the demo:
+In the demo program (ImageTransform_demo.exe) you can try both zooming and rotation features. Below are the screenshots from the demo:
 
 Initial "Zoom" page:
 ![imgx-zoom100](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom100.jpg?raw=true)   
