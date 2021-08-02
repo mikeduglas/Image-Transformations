@@ -11,8 +11,8 @@ In the demo program (ImageTransform_demo.exe) you can try both zooming and rotat
 Initial "Zoom" page:
 ![imgx-zoom100](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom100.jpg?raw=true)   
   
-The image zoomed out to 80%:
-![imgx-zoom80](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom80.jpg?raw=true)   
+The image zoomed out to 70%:
+![imgx-zoom80](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Zoom70.jpg?raw=true)   
   
 Initial "Rotation" page:
 ![imgx-rotate0](https://github.com/mikeduglas/Image-Transformations/blob/master/screenshots/Rotate0.jpg?raw=true)   
