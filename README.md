@@ -25,9 +25,10 @@ The image rotated to 27.2 degrees counterclock-wise:
 
 ## Features
 - Image zooming.
-- Zoom by mouse wheel (like web browsers do).
 - Image rotation by any angle.
+- Zoom/rotate by mouse wheel.
 - Selectable background color.
+- Context menu.
 
 ## Requirements
 - Clarion 6.3 and newer.
