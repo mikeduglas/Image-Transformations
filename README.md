@@ -2,7 +2,9 @@
 
 “IMAGE transformations” is a template which adds extra abilities to standard IMAGE control:  
 - Zoom in and out (with or without mouse wheel)
-- Rotate by any angle
+- Rotate by any angle (with or without mouse wheel)
+- Background color
+- Context menu (right mouse click)
 
 **It uses only regular Windows API functions, no extra libraries.**
 
